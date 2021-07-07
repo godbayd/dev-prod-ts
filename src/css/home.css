@@ -1,0 +1,9 @@
+.heading {
+    display: inline-flex;
+    border: 1px solid white;
+    padding: 40px;
+}
+
+ul {
+    margin-top: 40px;
+}
